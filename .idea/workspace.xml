@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="043ea661-9bc1-42dd-b57b-dfc21c56c0a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Inheritence/Income.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Inheritence/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Inheritence/Transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Inheritence/expense.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/WelcomeMessages.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/assi/evnts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/assi/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/controlFlow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/lambda/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/lambda/transataion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/login.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/oops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TransactionProcessor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataManaging/Attendee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataManaging/DataManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataManaging/Event.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataManaging/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventUpdates/EventManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventUpdates/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventUpdates/Typealias.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Events.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exportables/CSVexporter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exportables/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exportables/exportable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exportables/transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Display.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/EventManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LTransactions/transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/Attendee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/DataManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/EveentExtensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/Event.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSaftey/Schedule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scheinterface/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scheinterface/appointment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scheinterface/meeting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scheinterface/schedulable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scheinterface/schedule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialEvents/Display.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialEvents/Event.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialEvents/EventManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialEvents/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialEvents/SpecialEvent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transaction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transactions/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transactions/transactions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transactions2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic Operations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coll.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ehandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hof.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nsaf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recurr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sclass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shapes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strdemo.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Worksheet" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2gUP3uvQCvjryG7zEz2tc7YDOpT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Basic_OperationsKt.executor": "Run",
+    "Kotlin.CarKt.executor": "Run",
+    "Kotlin.CollKt.executor": "Run",
+    "Kotlin.ControlFlowKt.executor": "Run",
+    "Kotlin.DaysKt.executor": "Run",
+    "Kotlin.EhandlingKt.executor": "Run",
+    "Kotlin.EmpKt.executor": "Run",
+    "Kotlin.EventManagerKt.executor": "Run",
+    "Kotlin.EventsKt.executor": "Run",
+    "Kotlin.HofKt.executor": "Run",
+    "Kotlin.InputKt.executor": "Run",
+    "Kotlin.LoginKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.NsafKt.executor": "Run",
+    "Kotlin.OopsKt.executor": "Run",
+    "Kotlin.RecurrKt.executor": "Run",
+    "Kotlin.StrdemoKt.executor": "Run",
+    "Kotlin.TransactionKt.executor": "Run",
+    "Kotlin.Transactions2Kt.executor": "Run",
+    "Kotlin.WelcomeMessagesKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\project\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043ea661-9bc1-42dd-b57b-dfc21c56c0a7" name="Changes" comment="" />
+      <created>1715748991811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715748991811</updated>
+    </task>
+    <servers />
+  </component>
+</project>

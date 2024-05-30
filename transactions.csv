@@ -1,0 +1,4 @@
+ID,Date,Amount,Description
+1,2024-05-01,100.0,Payment received
+2,2024-05-02,-50.0,Purchase
+3,2024-05-03,200.0,Salary
