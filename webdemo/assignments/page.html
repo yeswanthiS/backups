@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple HTML Page</title>
+  <style>
+    /* Add some basic styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    form {
+      margin-top: 20px;
+    }
+    input[type="text"], input[type="email"], input[type="submit"] {
+      margin-bottom: 10px;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple HTML page demonstrating various elements.</p>
+  </header>
+
+  <section>
+    <article>
+      <h2>About Us</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget elit eu lorem tempor varius.</p>
+    </article>
+  </section>
+
+  <section>
+    <article>
+      <h2>Our Services</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget elit eu lorem tempor varius.</p>
+    </article>
+  </section>
+
+  <section>
+    <h2>Employee Directory</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Email</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>charloz sainz</td>
+          <td>Manager</td>
+          <td>sainz@f1.com</td>
+        </tr>
+        <tr>
+          <td>charles lerclerc</td>
+          <td>Developer</td>
+          <td>jcharles@f1.com</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <form action="#" method="POST">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name" required><br>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email" required><br>
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 My Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>

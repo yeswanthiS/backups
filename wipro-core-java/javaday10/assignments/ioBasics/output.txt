@@ -1,0 +1,17 @@
+this: 1
+is: 1
+a: 1
+sample: 3
+text: 3
+file: 3
+it: 1
+contains: 1
+some: 1
+words: 1
+that: 1
+will: 1
+be: 1
+counted: 1
+for: 1
+their: 1
+frequency: 1

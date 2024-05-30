@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains some words that will be counted for their frequency.
+Sample text file. Sample text file.

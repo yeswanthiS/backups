@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Manipulation</title>
+</head>
+<body>
+  <script>
+    // Define the user object
+    let user = {
+      name: "John Doe",
+      email: "john@example.com",
+      age: 30
+    };
+
+    // Function to change the name of the user
+    function changeName(newName) {
+      user.name = newName;
+    }
+
+    // Function to update the email of the user
+    function updateEmail(newEmail) {
+      user.email = newEmail;
+    }
+
+    // Function to calculate the user's birth year
+    function calculateBirthYear() {
+      let currentYear = new Date().getFullYear();
+      return currentYear - user.age;
+    }
+
+    // Example usage of the functions
+    console.log("Original user:", user);
+    changeName("Jane Smith");
+    console.log("Updated name:", user.name);
+    updateEmail("jane@example.com");
+    console.log("Updated email:", user.email);
+    console.log("Birth year:", calculateBirthYear());
+  </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+.col ul li a{
+    text-decoration: none;
+    color: black;
+}
+.col ul{
+    word-spacing: 20px;
+}
+.one{
+    border-top: 2px solid orangered;
+}
+.two{
+   background-image: url("website1.jpeg");
+   background-position: center;
+   background-size: cover;
+   height: 400px;
+}
+.col input{
+    padding-right: 50px;
+}
+.col button{
+    background-color: orangered;
+    color: black;
+}
+ .h1-1 button{
+background-color: orange;
+color: white;
+ }
+ .h1-1{
+    margin-left: 200px;
+    height: 400px;
+ }
